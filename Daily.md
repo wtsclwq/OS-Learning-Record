@@ -16,3 +16,4 @@
 - 字符、布尔、单元类型
 - 语句与表达式
 - 函数
+- 完成rustlings variables和functions部分的习题
