@@ -8,3 +8,6 @@
 3. [操作系统导论(OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)
 4. [Operating Systems: Principles and Practice]()
 5. [2022 南京大学 “操作系统：设计与实现” (蒋炎岩)](https://space.bilibili.com/202224425/channel/collectiondetail?sid=192498)
+
+## 读书笔记
+[Rust语言圣经](https://www.wolai.com/uornybgmLW3uBrUmFb6F81)
