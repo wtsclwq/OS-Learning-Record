@@ -56,3 +56,12 @@
 - 特征
 - 特征对象
 - 深入特征
+
+## 2022.11.17 Day7
+### 凌晨 2小时
+完成rustlings习题
+- structs
+- move
+- if
+- vecs
+- basic types
