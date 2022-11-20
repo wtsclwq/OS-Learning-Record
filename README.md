@@ -11,3 +11,5 @@
 
 ## 读书笔记
 [Rust语言圣经](https://www.wolai.com/uornybgmLW3uBrUmFb6F81)
+
+[rCore-Tutorial-Book 第三版](https://www.wolai.com/bzZscBDGaMvESi9RtfcA6q)
