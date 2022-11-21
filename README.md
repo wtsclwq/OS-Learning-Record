@@ -8,10 +8,11 @@
 3. [操作系统导论(OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/#book-chapters)
 4. [Operating Systems: Principles and Practice]()
 5. [2022 南京大学 “操作系统：设计与实现” (蒋炎岩)](https://space.bilibili.com/202224425/channel/collectiondetail?sid=192498)
+6. [CS61C](https://inst.eecs.berkeley.edu/~cs61c/fa20/#lectures)
 
 ## 读书笔记
-[Rust语言圣经](https://www.wolai.com/uornybgmLW3uBrUmFb6F81)
+1. [Rust语言圣经](https://www.wolai.com/uornybgmLW3uBrUmFb6F81)
 
-[rCore-Tutorial-Book 第三版](https://www.wolai.com/kLWFkgJJNAiq9GzPn4A64z)
+2. [rCore-Tutorial-Book 第三版](https://www.wolai.com/kLWFkgJJNAiq9GzPn4A64z)
 
-[计算机组成与设计：软/硬件接口 RISC-V版](https://www.wolai.com/rYBETunAXCipabnWuFvj2E)
+3. [计算机组成与设计：软/硬件接口 RISC-V版](https://www.wolai.com/rYBETunAXCipabnWuFvj2E)
