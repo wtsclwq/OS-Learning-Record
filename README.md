@@ -12,4 +12,6 @@
 ## 读书笔记
 [Rust语言圣经](https://www.wolai.com/uornybgmLW3uBrUmFb6F81)
 
-[rCore-Tutorial-Book 第三版](https://www.wolai.com/bzZscBDGaMvESi9RtfcA6q)
+[rCore-Tutorial-Book 第三版](https://www.wolai.com/kLWFkgJJNAiq9GzPn4A64z)
+
+[计算机组成与设计：软/硬件接口 RISC-V版](https://www.wolai.com/rYBETunAXCipabnWuFvj2E)
