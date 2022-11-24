@@ -106,11 +106,15 @@ TODO：
 - 教材第一章 计算机抽象及技术
 - CS61C lecture1
 
-
 ## 2022.11.22 Day3
 ### 上午 两小时
-- CS61 lecture2
+- CS61C lecture2
 ---
+
+## 2022.11.24 Day5
+### 下午 两小时
+- CS61C lecture3 4 5
+
 # OS学习记录
 
 ## 2022.11.20 Day1
